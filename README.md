@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with a job offer)
 - 📫 How to reach me: linkedin, email vitaliy1785b@ukr.net, telegram @Pierre_bourne
 - ⚡ Fun fact: better than 99.9% Math Battle players (record - 420 points)
-- My Tableau portfolio: https://public.tableau.com/app/profile/vitalii.stukin/favorites
+- 📑 My Tableau portfolio: https://public.tableau.com/app/profile/vitalii.stukin/favorites
