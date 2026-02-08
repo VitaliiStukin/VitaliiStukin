@@ -1,5 +1,7 @@
 ## Hi there 👋
+Currently switching to Analytics. I am looking for an opportunity to join a team as a Marketing/Data/Product Analyst. I have an interest in analytics and how data impacts business decisions. I am looking to grow as an analyst to help teams make data-driven decisions.
 
+My Tableau portfolio: https://public.tableau.com/app/profile/vitalii.stukin/favorites
 <!--
 **VitaliiStukin/VitaliiStukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
